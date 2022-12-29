@@ -35,7 +35,7 @@ const questions = [
           {
                type: 'checkbox',
                name: 'License',
-               message: 'Choose a license for your app',
+               message: 'Choose a license for your app (if you want to leave this block empty just press ENTER)',
                choices: ['Apache', 'MIT', 'Mozilla-Public', 'GNU-General-Public', 'Common-Development-and Distribution', 'None'],
           },
           {
@@ -54,7 +54,7 @@ function writeToFile(fileName, data) {
      fs.writeFile(fileName, data, (err) => {
           if (err)
                throw err;
-          console.log('Success! Information transferred to the README!')
+          console.log('Success! README file created!')
      });
      }; 
 // Function to initialize app
