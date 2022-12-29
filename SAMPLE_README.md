@@ -1,4 +1,4 @@
-# sample_answer_1
+# professional-README-Generator
 ## Licensing:
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 ## Table of Contents 
@@ -9,17 +9,18 @@
 - [Testing](#testing)
 - [Additional Info](#additional-info)
 ## Description:
-sample_answer_2
+This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js
 ## Installation:
-sample_answer_3
+To install dependencies, run the following: "npm i"
 ## Usage:
-sample_answer_4
+After installing the dependencies, run the application with "node index"
 ## License:
 MIT
 ## Contribution:
-sample_answer_5
+none
 ## Testing:
-sample_answer_6
+To run test type in "npm run test'
 ## Additional Info:
-- Github: [sample_answer_7](https://github.com/sample_answer_7)
-- Email: sample_answer_8;
+If you have any questions please feel free to contact me by:
+- Github: [ValeriiKryshtal](https://github.com/ValeriiKryshtal)
+- Email: valeriikryshtal@yahoo.com;
