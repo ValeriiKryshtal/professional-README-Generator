@@ -22,6 +22,7 @@ ${data.Contributing}
 ## Testing:
 ${data.Tests}
 ## Additional Info:
+If you have any questions please feel free to contact me by:
 - Github: [${data.github}](https://github.com/${data.github})
 - Email: ${data.email};`};
 
