@@ -25,3 +25,5 @@ To run test type in "npm run test'
 ## Additional Info:
 - Github: [valeriikryshtal](https://github.com/valeriikryshtal)
 - Email: valeriikryshtal@yahoo.com;
+## Runing app Screenshot
+![screenshot](https://github.com/ValeriiKryshtal/professional-README-Generator/blob/main/assets/ReadmeGenerator.jpg) 
